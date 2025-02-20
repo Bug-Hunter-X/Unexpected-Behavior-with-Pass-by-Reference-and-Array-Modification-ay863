@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in PHP related to pass-by-reference and array modifications. The `increment_array_value` function intends to increment an array's value, but there's a potential unexpected behavior. The `bug.php` file contains the buggy code, while `bugSolution.php` provides the corrected version and explanation.
